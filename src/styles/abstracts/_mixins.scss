@@ -1,5 +1,9 @@
 @mixin respond($mode) {
-  @if $mode == "tablet" {
+  @if $mode == "phone" {
+    @media screen and (max-width: 425px) {
+      @content;
+    }
+  } @else if $mode == "tablet" {
     @media screen and (max-width: 768px) {
       @content;
     }

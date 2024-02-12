@@ -1,6 +1,25 @@
 {
   "app": {
-    "name": "template",
-    "description": "template, min 80 symbols"
+    "name": "Test Work"
+  },
+  "header": {
+    "input": {
+      "placeholder": "Search users by name or car..."
+    },
+    "foundUsers": "Found users: {{size}}"
+  },
+  "home": {
+    "user": {
+      "card": {
+        "description": {
+          "car": {
+            "model": "car model: {{model}}",
+            "make": "car make: {{make}}"
+          },
+          "activated": "activated: {{status}}",
+          "created": "created: {{date}}"
+        }
+      }
+    }
   }
 }

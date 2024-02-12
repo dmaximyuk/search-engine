@@ -1,0 +1,18 @@
+@import "../../styles/main"
+
+.UserCard
+  width: 100%
+  box-shadow: 0 7px 25px 0 #64646F33
+  padding: 40px
+
+  &__placement
+    @include respond("tablet")
+      display: grid
+      grid-template-columns: 1fr 1fr
+
+    @include respond("phone")
+      display: grid
+      grid-template-columns: 1fr
+
+  & > h2
+    margin-bottom: 20px
