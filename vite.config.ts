@@ -8,7 +8,7 @@ import { compilerOptions } from "./tsconfig.json";
 
 export default defineConfig({
   publicDir: "public",
-  base: "test-task",
+  base: "/test-task",
   build: {
     outDir: path.join(compilerOptions.outDir),
     minify: "terser",
