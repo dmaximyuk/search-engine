@@ -8,7 +8,7 @@ This project was created as part of a technical interview assignment. The goal w
 
 The requirements were as follows:
 
-- Fetch and display data.
+- Display data.
 - Implement search functionality by **name** or **car model**.
 - Use the specified technology stack: **React.js**, **Redux**, **TypeScript**, and **Sass**.
 
@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/dmaximyuk/search-engine
-   cd test-assignment
+   cd search-engine
    ```
 
 2. Install dependencies:
@@ -87,6 +87,7 @@ Implemented features:
    - Fetched data from an API and displayed it in a clean, structured format.
 
 2. **Search**:
+
    - Implemented a search bar to filter results by **name** or **car model**.
 
 ---
