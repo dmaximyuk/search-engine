@@ -101,7 +101,7 @@ Implemented features:
 
 ## 📦 Deployment
 
-The application has been deployed and is accessible at: [Deployment Link](https://example.com).
+The application has been deployed and is accessible at: [Deployment Link](https://dmaximyuk.github.io/search-engine/).
 
 ---
 
