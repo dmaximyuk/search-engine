@@ -109,9 +109,9 @@ The application has been deployed and is accessible at: [Deployment Link](https:
 
 If you have any questions, feel free to reach out:
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [GitHub Repository Link]
+- **Email**: d_maksimyk@vk.com
+- **Telegram**: https://t.me/d_maximyuk
+- **GitHub**: https://github.com/dmaximyuk
 
 ---
 
