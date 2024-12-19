@@ -11,10 +11,10 @@ import { store } from "store/store";
 
 import { router } from "routes";
 
-import { ru } from "translation";
+import { en } from "translation";
 
 const translations = {
-  ru: async () => ru,
+  en: async () => en,
 };
 
 const root = createRoot(document.getElementById("root")!);
@@ -22,7 +22,7 @@ const root = createRoot(document.getElementById("root")!);
 root.render(
   <StrictMode>
     <Store store={store}>
-      <TranslationProvider translations={translations} language="ru">
+      <TranslationProvider translations={translations} language="en">
         <RouterProvider router={router} />
       </TranslationProvider>
     </Store>

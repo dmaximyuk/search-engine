@@ -8,7 +8,7 @@ import { compilerOptions } from "./tsconfig.json";
 
 export default defineConfig({
   publicDir: "public",
-  base: "/search-user",
+  base: "/search-engine",
   build: {
     outDir: path.join(compilerOptions.outDir),
     minify: "terser",
