@@ -7,7 +7,7 @@ const routes: Array<RouteObject> = [
     element: <App />,
     children: [
       {
-        path: "/test-task",
+        path: "/search-user",
         element: <Home />,
       },
     ],
