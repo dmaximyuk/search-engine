@@ -95,7 +95,7 @@ Implemented features:
 
 ### Main Screen
 
-![Main Screen Screenshot](https://via.placeholder.com/800x400)
+![Main Screen Screenshot](repository/images/search-screenshot.png)
 
 ---
 
